@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Android, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohitwildbeast](https://github.com/msindev)
+- 👨‍💻 All of my projects are available at [https://github.com/msindev](https://github.com/msindev)
 
 - 💬 Ask me about **Android**
 
