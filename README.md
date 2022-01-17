@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A software developer building stuff and teaching code.</h3>
 
-<p align="left"> <a href="https://twitter.com/mohitwildbeast" target="blank"><img src="https://img.shields.io/twitter/follow/mohitwildbeast?logo=twitter&style=for-the-badge" alt="mohitwildbeast" /></a> </p>
+<p align="left"> <a href="https://twitter.com/msindev" target="blank"><img src="https://img.shields.io/twitter/follow/msindev?logo=twitter&style=for-the-badge" alt="msindev" /></a> </p>
 
 - 🌱 I’m currently learning **Angular, Android, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohitwildbeast](https://github.com/mohitwildbeast)
+- 👨‍💻 All of my projects are available at [https://github.com/mohitwildbeast](https://github.com/msindev)
 
 - 💬 Ask me about **Android**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohitwildbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohitwildbeast" height="30" width="40" /></a>
+<a href="https://twitter.com/msindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohitwildbeast" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohitwildbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitwildbeast" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohitwildbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohitwildbeast" height="30" width="40" /></a>
 <a href="https://kaggle.com/mohitwildbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohitwildbeast" height="30" width="40" /></a>
