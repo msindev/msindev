@@ -1,35 +1,46 @@
+
 <h1 align="center">Hi 👋, I'm Mohit</h1>
+
 <h3 align="center">A software developer building stuff and teaching code.</h3>
 
-<p align="left"> <a href="https://twitter.com/msindev" target="blank"><img src="https://img.shields.io/twitter/follow/msindev?logo=twitter&style=for-the-badge" alt="msindev" /></a> </p>
+![Mohit Singh](https://raw.githubusercontent.com/msindev/msindev/main/Header.png)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=msindev&label=Profile%20views&color=2f80b6&style=plastic" alt="msindev" />
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRUtPWZ_Mo8CgdHbCSctodQ?style=social"> </p>
+<a href="https://youtube.com/PenguinCodersNetOfficial"><img src="https://raw.githubusercontent.com/msindev/msindev/main/images/hey.png" align="left" height="250" /></a>
 
-- 🌱 I’m currently learning **Angular, Android, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/msindev](https://github.com/msindev)
+## 🚀 About Me
+I'm a software Engineer working at Cisco.
+- 👩‍💻 I'm currently working on **Angular**
+- 🧠 I'm currently learning **AWS, RxJS, NgRx**
+- 👨🏻‍💻 I regularly post videos on [Penguin Coders](https://youtube.com/PenguinCodersNetOfficial) 
+- 💬 Ask me about **Android Development**
+- 📫 Reach me through [Twitter](https://twitter.com/msindev)
 
-- 💬 Ask me about **Android**
+<img src="https://raw.githubusercontent.com/msindev/msindev/main/images/skills.png" align="right" height="150" />
 
-- 📫 How to reach me **mohit@penguincoders.net**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/msindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohitwildbeast" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/msindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msindev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohitwildbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohitwildbeast" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohitwildbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohitwildbeast" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/PenguinCodersNetOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="penguin coders" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohitwildbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohitwildbeast" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohitwildbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohitwildbeast" height="30" width="40" /></a>
+## 🛠 I'm familiar with
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 
+## 🔗 Connect With Me
+[![Linkedin Badge](https://img.shields.io/badge/-Mohit%20Singh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msindev/)](https://www.linkedin.com/in/msindev/)
+[![Twitter Badge](https://img.shields.io/badge/-@msindev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/msindev)](https://twitter.com/msindev)
+[![Gmail Badge](https://img.shields.io/badge/-mohit@penguincoders.net-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohit@penguincoders.net "Connect via Email")
+[![Website Badge](https://img.shields.io/badge/-penguincoders.net-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://penguincoders.net)](https://penguincoders.net)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/penguincoders"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="penguincoders" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msindev&show_icons=true&theme=dark&locale=en" alt="msindev" /></p>
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
+## Some Statistics
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=msindev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/msindev)
+<img src="https://raw.githubusercontent.com/msindev/msindev/main/images/statistics.png" align="right" height="200" />
+<p><img alt="GitHub followers" src="https://img.shields.io/github/followers/msindev?style=social">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRUtPWZ_Mo8CgdHbCSctodQ?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/msindev?style=social"></p>
+<p><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/msindev?affiliations=COLLABORATOR%2COWNER%2CORGANIZATION_MEMBER&style=social"></p>
