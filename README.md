@@ -9,13 +9,12 @@
 
 ## 🚀 About Me
 I'm a software Engineer working at Cisco.
-- 👩‍💻 I'm currently working on **Angular**
-- 🧠 I'm currently learning **AWS, RxJS, NgRx**
-- 👨🏻‍💻 I regularly post videos on [Penguin Coders](https://youtube.com/PenguinCodersNetOfficial) 
+- 👩‍💻 I'm currently working on **Angular, Typescript, NodeJS**
+- 🧠 I'm currently learning **AWS, RxJS, NgRx, Spring Boot, and Android Development**
+- 👨🏻‍💻 I regularly post videos on [Penguin Coders](https://youtube.com/PenguinCodersNetOfficial). You can subscribe for Android related content.
 - 💬 Ask me about **Android Development**
 - 📫 Reach me through [Twitter](https://twitter.com/msindev)
 
-</br></br></br>
 <img src="https://raw.githubusercontent.com/msindev/msindev/main/images/skills.png" align="right" height="150" />
 
 ## 🛠 I'm familiar with
