@@ -6,9 +6,10 @@
 ![Mohit Singh](https://raw.githubusercontent.com/msindev/msindev/main/Header.png)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=msindev&label=Profile%20views&color=2f80b6&style=plastic" alt="msindev" />
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRUtPWZ_Mo8CgdHbCSctodQ?style=social"> </p>
-<img src="https://raw.githubusercontent.com/msindev/msindev/main/images/hey.png" align="left" height="250" />
+<img src="https://raw.githubusercontent.com/msindev/msindev/main/images/hey.png" align="right" height="250" />
 
 ## 🚀 About Me
+
 I'm a software Engineer working at Cisco.
 - 👩‍💻 I'm currently working on **Angular**
 - 🧠 I'm currently learning **AWS, RxJS, NgRx**
@@ -16,6 +17,7 @@ I'm a software Engineer working at Cisco.
 - 💬 Ask me about **Android Development**
 - 📫 Reach me through [Twitter](https://twitter.com/msindev)
 
+</br></br></br>
 <img src="https://raw.githubusercontent.com/msindev/msindev/main/images/skills.png" align="right" height="150" />
 
 ## 🛠 I'm familiar with
