@@ -5,7 +5,7 @@
 
 ![Mohit Singh](https://raw.githubusercontent.com/msindev/msindev/main/Header.png)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=msindev&label=Profile%20views&color=2f80b6&style=plastic" alt="msindev" />
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRUtPWZ_Mo8CgdHbCSctodQ?style=social"> </p>
+<a href="https://youtube.com/PenguinCodersNetOfficial"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRUtPWZ_Mo8CgdHbCSctodQ?style=social"></a></p>
 
 ## 🚀 About Me
 I'm a software Engineer working at Cisco.
@@ -50,6 +50,6 @@ I'm a software Engineer working at Cisco.
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=msindev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/msindev)
 <img src="https://raw.githubusercontent.com/msindev/msindev/main/images/statistics.png" align="right" height="200" />
 <p><img alt="GitHub followers" src="https://img.shields.io/github/followers/msindev?style=social">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRUtPWZ_Mo8CgdHbCSctodQ?style=social">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/msindev?style=social"></p>
+<a href="https://youtube.com/PenguinCodersNetOfficial"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRUtPWZ_Mo8CgdHbCSctodQ?style=social"></a>
+<a href="https://twitter.com/msindev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/msindev?style=social"></a></p>
 <p><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/msindev?affiliations=COLLABORATOR%2COWNER%2CORGANIZATION_MEMBER&style=social"></p>
