@@ -8,9 +8,7 @@
 <a href="https://youtube.com/PenguinCodersNetOfficial"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRUtPWZ_Mo8CgdHbCSctodQ?style=social"></a></p>
 
 ## 🚀 About Me
-I'm a software Engineer working at Cisco.
-- 👩‍💻 I'm currently working on **Angular, Typescript, NodeJS**
-- 🧠 I'm currently learning **AWS, RxJS, NgRx, Spring Boot, and Android Development**
+I'm a software Engineer working at Informatica.
 - 👨🏻‍💻 I regularly post videos on [Penguin Coders](https://youtube.com/PenguinCodersNetOfficial). You can subscribe for Android-related content.
 - 💬 Ask me about **Android Development**
 - 📫 Reach me through [Twitter](https://twitter.com/msindev)
